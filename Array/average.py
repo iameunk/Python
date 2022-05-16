@@ -1,6 +1,6 @@
-n = int(input())
-m = list(map(int, input().split()))
-_max_ = max(m)
-for i in range(n) :
-    m[i] = m[i] / _max_ * 100
-print("%.2f" %(sum(m)/n))
+N = int(input())
+M = list(map(int, input().split()))
+_max_ = max(M)
+for i in range(N) :
+    M[i] = M[i] / _max_ * 100
+print("%.2f" %(sum(M)/N))
