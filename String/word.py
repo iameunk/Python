@@ -1,6 +1,6 @@
 word = input().upper()      # word = baa
 word_list = list(set(word)) # word_list = ['b','a'] (set : 중복 제거)
-cnt = []
+cnt = [] #각 알파벳의 갯수 저장
 
 for i in word_list :        # i = b, a
     count = word.count(i)
