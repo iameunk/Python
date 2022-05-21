@@ -8,5 +8,5 @@ def hansu(n) :
             cnt += 1
     return cnt
 
-n = int(input())
-print(hansu(n))
+num = int(input())
+print(hansu(num))
