@@ -25,11 +25,11 @@
 |-------|----------------------------------------------------------------------------------|
 |11654|[아스키 코드](https://github.com/iameunk/Python/blob/master/String/ascii.py)
 |11720|[숫자의 합](https://github.com/iameunk/Python/blob/master/String/sum.py)
-|10809|[알파벳 찾기]
-|2675|[문자열 반복]
-|1157|[단어 공부]
-|1152|[단어의 개수]
-|2908|[상수]
-|5622|[다이얼]
-|2941|[크로아티아 알파벳]
-|1316|[그룹 단어 체커]
+|10809|[알파벳 찾기](https://github.com/iameunk/Python/blob/master/String/alphabet.py)
+|2675|[문자열 반복](https://github.com/iameunk/Python/blob/master/String/repeat_string.py)
+|1157|[단어 공부](https://github.com/iameunk/Python/blob/master/String/word.py)
+|1152|[단어의 개수](https://github.com/iameunk/Python/blob/master/String/numberofword.py)
+|2908|[상수](https://github.com/iameunk/Python/blob/master/String/sangsoo.py)
+|5622|[다이얼](https://github.com/iameunk/Python/blob/master/String/dial.py)
+|2941|[크로아티아 알파벳](https://github.com/iameunk/Python/blob/master/String/croatia_alphabet.py)
+|1316|[그룹 단어 체커](https://github.com/iameunk/Python/blob/master/String/checker.py)
