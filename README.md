@@ -33,3 +33,13 @@
 |5622|[다이얼](https://github.com/iameunk/Python/blob/master/String/dial.py)
 |2941|[크로아티아 알파벳](https://github.com/iameunk/Python/blob/master/String/croatia_alphabet.py)
 |1316|[그룹 단어 체커](https://github.com/iameunk/Python/blob/master/String/checker.py)
+
+
+
+## 기본 수학1
+|**문제번호**|**코드**|
+|-------|----------------------------------------------------------------------------------|
+|1712|[손익분기점](https://github.com/iameunk/Python/blob/master/Math1/break_even_point.py)
+|2292|[벌집](https://github.com/iameunk/Python/blob/master/Math1/honeycomb.py)
+|1193|[분수 찾기](https://github.com/iameunk/Python/blob/master/Math1/fraction.py)
+|2869|[달팽이는 올라가고 싶다](https://github.com/iameunk/Python/blob/master/Math1/snail.py)
