@@ -62,9 +62,9 @@
 ## 재귀
 |**문제번호**|**코드**|
 |-------|----------------------------------------------------------------------------------|
-|10872|[팩토리얼]
-|10870|[피보나치 수 5]
-|17478|[재귀함수가 뭔가요?]
-|2447|[별 찍기 10]
-|11729|[하노이 탑 이동 순서]
+|10872|[팩토리얼](https://github.com/iameunk/Python/blob/master/Recursion/factorial.py)
+|10870|[피보나치 수 5](https://github.com/iameunk/Python/blob/master/Recursion/fibonacci5.py)
+|17478|[재귀함수가 뭔가요?](https://github.com/iameunk/Python/blob/master/Recursion/recursion.py)
+|2447|[별 찍기 10](https://github.com/iameunk/Python/blob/master/Recursion/star10.py)
+|11729|[하노이 탑 이동 순서](https://github.com/iameunk/Python/blob/master/Recursion/hanoi.py)
 
