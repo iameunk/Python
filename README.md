@@ -43,7 +43,7 @@
 |2292|[벌집](https://github.com/iameunk/Python/blob/master/Math1/honeycomb.py)
 |1193|[분수 찾기](https://github.com/iameunk/Python/blob/master/Math1/fraction.py)
 |2869|[달팽이는 올라가고 싶다](https://github.com/iameunk/Python/blob/master/Math1/snail.py)
-|10250|[ACM 호텔]
-|2775|[부녀회장이 될테야]
-|2839|[설탕 배달]
-|10757|[큰 수 A+B]
+|10250|[ACM 호텔](https://github.com/iameunk/Python/blob/master/Math1/acm.py)
+|2775|[부녀회장이 될테야](https://github.com/iameunk/Python/blob/master/Math1/women_president.py)
+|2839|[설탕 배달](https://github.com/iameunk/Python/blob/master/Math1/sugar_delivery.py)
+|10757|[큰 수 A+B](https://github.com/iameunk/Python/blob/master/Math1/a%2Bb.py)
