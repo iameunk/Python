@@ -43,7 +43,28 @@
 |2292|[벌집](https://github.com/iameunk/Python/blob/master/Math1/honeycomb.py)
 |1193|[분수 찾기](https://github.com/iameunk/Python/blob/master/Math1/fraction.py)
 |2869|[달팽이는 올라가고 싶다](https://github.com/iameunk/Python/blob/master/Math1/snail.py)
-|10250|[ACM 호텔]
-|2775|[부녀회장이 될테야]
-|2839|[설탕 배달]
-|10757|[큰 수 A+B]
+|10250|[ACM 호텔](https://github.com/iameunk/Python/blob/master/Math1/acm.py)
+|2775|[부녀회장이 될테야](https://github.com/iameunk/Python/blob/master/Math1/women_president.py)
+|2839|[설탕 배달](https://github.com/iameunk/Python/blob/master/Math1/sugar_delivery.py)
+|10757|[큰 수 A+B](https://github.com/iameunk/Python/blob/master/Math1/a%2Bb.py)
+
+## 기본 수학2
+|**문제번호**|**코드**|
+|-------|----------------------------------------------------------------------------------|
+|1978|[소수 찾기]
+|2581|[소수]
+|11653|[소인수분해]
+|1929|[소수 구하기]
+|4948|[베르트랑 공준]
+|9020|[골드바흐의 추측]
+
+
+## 재귀
+|**문제번호**|**코드**|
+|-------|----------------------------------------------------------------------------------|
+|10872|[팩토리얼](https://github.com/iameunk/Python/blob/master/Recursion/factorial.py)
+|10870|[피보나치 수 5](https://github.com/iameunk/Python/blob/master/Recursion/fibonacci5.py)
+|17478|[재귀함수가 뭔가요?](https://github.com/iameunk/Python/blob/master/Recursion/recursion.py)
+|2447|[별 찍기 10](https://github.com/iameunk/Python/blob/master/Recursion/star10.py)
+|11729|[하노이 탑 이동 순서](https://github.com/iameunk/Python/blob/master/Recursion/hanoi.py)
+
