@@ -6,5 +6,5 @@ for _ in str(n) :
 
 num.sort(reverse = True) #내림차순 정렬
 
-for i in nums :
+for i in num :
     print(i, end = '') #end = '' : 한 줄로 출력
