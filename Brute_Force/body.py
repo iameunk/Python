@@ -3,7 +3,7 @@ n = int(input())
 body_list = []
 rank_list = []
 
-for i in range(n) :
+for _ in range(n) :
     w, h = map(int, input().split())
     body_list.append((w,h)) #키와 몸무게를 튜플로 묶어서 append 해줌
 
