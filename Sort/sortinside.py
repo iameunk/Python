@@ -1,8 +1,8 @@
 n = int(input())
 num = []
 
-for _ in str(n) :
-    num = list(map(int,str(n))) #문자열 n을 정수형으로 바꾸고 list에 각각 저장하기
+for i in str(n) :
+    num.append(int(i)) #문자열 각 자리를 정수형으로 바꿔 num에 저장
 
 num.sort(reverse = True) #내림차순 정렬
 
