@@ -1,6 +1,5 @@
 import math
 import sys
-input = sys.stdin.readline
 
 def isPrime(num) :
     if num == 1 :

@@ -12,7 +12,7 @@ for i in range(n) :
     for j in range(n) :
         if body_list[i][0] < body_list[j][0] and body_list[i][1] < body_list[j][1] : #몸무게와 키가 모두 자신보다 큰 사람 수 세기
             rank += 1
-    rank_list.append(rank + 1) #등수는 자신보다 몸무게, 키 모두 큰 사람의 수 + 1
+    rank_list.append(rank + 1)
 
 for i in rank_list :
     print(i, end= " ")
