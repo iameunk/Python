@@ -1,7 +1,7 @@
 import math
 import sys
 
-def isPrime(num) :
+def IsPrime(num) :
     if num == 1 :
         return False
 
